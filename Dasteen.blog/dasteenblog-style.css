@@ -363,7 +363,7 @@ form .button:hover {
   justify-content: center;
 }
 
-.dots-wrapper {
+#dots-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
