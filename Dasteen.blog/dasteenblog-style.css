@@ -13,11 +13,6 @@
 
 /*================================================backgrounds==============================================*/
 
-/*.width-1252 {*/
-/*  width: 1252px;*/
-/*  margin: 0 auto;*/
-/*}*/
-
 main {
   width: 100%;
   background: #EFF0F3;
@@ -79,16 +74,9 @@ header {
 
 /*=====================================*/
 
-header nav {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 header ul {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 50px;
 }
 
