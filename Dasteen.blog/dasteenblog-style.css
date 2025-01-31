@@ -262,6 +262,7 @@ form .button:hover {
   display: flex;
   justify-content: space-between;
   width: 1252px;
+  height: 30px;
 }
 
 .link {
@@ -493,7 +494,6 @@ article .content {
 
   gap: 30px;
   width: 696px;
-  height: 362px;
 
   margin: 0 auto;
 }
@@ -504,7 +504,7 @@ article .content {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  height: 105px;
+  height: 80px;
 }
 
 .subscribe-text h3 {
